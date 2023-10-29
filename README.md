@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Anjum</h1>
 <h3 align="center">I'm passionate about AI | ML | DL | NLP and CV</h3>
-<img align='right' alt='Coding' width='400' src='https://miro.medium.com/v2/resize:fit:828/1*TlbU0F-waQf7_zOfhUNldQ.gif'>
+<img align='right' alt='Coding' width='500' src='https://miro.medium.com/v2/resize:fit:828/1*TlbU0F-waQf7_zOfhUNldQ.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hamza380&label=Profile%20views&color=0e75b6&style=flat" alt="m-hamza380" /> </p>
 
