@@ -1,4 +1,4 @@
-
+![logo](https://github.com/M-Hamza380/M-Hamza380/blob/main/ai-revised2.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Anjum</h1>
 <h3 align="center">I'm passionate about AI | ML | DL | NLP and CV</h3>
 <img align='right' alt='Coding' width='500' src='https://miro.medium.com/v2/resize:fit:828/1*TlbU0F-waQf7_zOfhUNldQ.gif'>
