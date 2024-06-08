@@ -1,13 +1,13 @@
 ![logo](https://github.com/M-Hamza380/M-Hamza380/blob/main/ai-revised2.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Anjum</h1>
-<h3 align="center">I'm passionate about AI | ML | DL | NLP</h3>
+<h3 align="center">I'm passionate about AI | ML | DL | NLP | RAG | LLM</h3>
 <img align='right' alt='Coding' width='500' src='https://miro.medium.com/v2/resize:fit:828/1*TlbU0F-waQf7_zOfhUNldQ.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hamza380&label=Profile%20views&color=0e75b6&style=flat" alt="m-hamza380" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning | Deep Learning**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **RAG & LLM**
 
 - 💬 Ask me about **Python | AI | ML | DL | NLP**
 
