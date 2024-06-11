@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hamza380&label=Profile%20views&color=0e75b6&style=flat" alt="m-hamza380" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning | Deep Learning | NLP**
+- 🔭 I’m currently working on **Machine Learning | Deep Learning | NLP | RAG | LLM**
 
 - 🌱 I’m currently learning **RAG & LLM**
 
