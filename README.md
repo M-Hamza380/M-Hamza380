@@ -1,9 +1,11 @@
 <h1 align="center">Hi , I'm Muhammad Hamza Anjum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-	<a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs,%20GenAI);Cloud+Computing%20(AWS, %20GCP);MLOPS, %20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Aspiring%20Data%20Scientist%20(ML,%20DL,%20NLP);Cloud+Computing;AIOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-## :sassy_man:  About me
+[![](https://visitcount.itsvg.in/api?id=M-Hamza380&icon=10&color=0)](https://visitcount.itsvg.in)
+
+# 💫 About Me:
 - 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | Data Scientist (ML | DL | NLP | RAG | LLM's | GenAI) | MLOPS & LLMOPS | Cloud Computing (AWS, GCP).
 
 - 🧐 Interested in `LLMs, GenAI, MLOPS, & LLMOPS`, Cloud Computing, Proficient in Data Science focusing on challenging business problems.
@@ -35,9 +37,6 @@
 
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="" /></p>
-
 <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -53,19 +52,19 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+    <img alt="C" src="[https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="[https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)">
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="[https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)">
    </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="[https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)">
   </a>
 </p>
 
@@ -73,7 +72,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
+   <img alt="HTML" src="[https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
@@ -81,11 +80,7 @@
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="JS" src="https://img.shields.io/badge/JS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="BOOTSTRAP" src="https://img.shields.io/badge/BOOTSTRAP%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
+    <img alt="BOOTSTRAP" src="[https://img.shields.io/badge/BOOTSTRAP%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)">
   </a>
 </p>
 
@@ -116,6 +111,8 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%2334A853.svg?style=plastic&logo=Docker&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="MLflow" src="[https://img.shields.io/badge/Docker%20-%2334A853.svg?style=plastic&logo=Docker&logoColor=white](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
@@ -153,17 +150,16 @@
 
 <br/>
 
-## 📊 Github Stats
+# 📊 GitHub Stats:
 
 
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="M-Hamza Github Stats" src="https://github-readme-stats.vercel.app/api?username=M-Hamza380&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-Hamza380&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="M-Hamza380" height="192px"/>
+	![](https://github-readme-stats.vercel.app/api?username=M-Hamza380&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
+	![](https://github-readme-streak-stats.herokuapp.com/?user=M-Hamza380&theme=github_dark_dimmed&hide_border=false)<br/>
+	![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hamza380&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
