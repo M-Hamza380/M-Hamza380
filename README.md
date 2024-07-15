@@ -1,16 +1,16 @@
 <h1 align="center">Hi , I'm Muhammad Hamza Anjum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs, and %20GenAI);Cloud+Computing%20(AWS, %20GCP);MLOPS & LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+	<a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs,%20GenAI);Cloud+Computing%20(AWS, %20GCP);MLOPS, %20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## :sassy_man:  About me
 - 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | Data Scientist (ML | DL | NLP | RAG | LLM's | GenAI) | MLOPS & LLMOPS | Cloud Computing (AWS, GCP).
 
-- 🧐 Interested in `GenAI, MLOPS, & LLMOPS`, Cloud Computing, Proficient in Data Science focusing on challenging business problems.
+- 🧐 Interested in `LLMs, GenAI, MLOPS, & LLMOPS`, Cloud Computing, Proficient in Data Science focusing on challenging business problems.
 
 - 🌱 I’m currently learning **RAG, LLM's & GenAI**
 
-- 💬 Ask me about **Python | AI | ML | DL | NLP | RAG | LLM | GenAI**
+- 💬 Ask me about **Python | AI | ML | DL | NLP | RAG | LLMs | GenAI**
 
 - ⚡ Fun fact **I'm active learner😁😎**
 
@@ -36,7 +36,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IamVicky90&theme=algolia" alt="Vicky" /></p>
+<p align="center"><img src="" /></p>
 
 <br>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
