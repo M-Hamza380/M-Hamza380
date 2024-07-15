@@ -1,13 +1,14 @@
-
 <h1 align="center">Hi , I'm Muhammad Hamza Anjum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/Johnny463"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Aspiring%20Data%20Scientist%20(ML,%20DL,%20NLP);Cloud+Computing;AIOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;
+  Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs, and %20GenAI);Cloud+Computing%20(AWS, %20GCP);MLOPS & LLMOPS;
+  Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## :sassy_man:  About me
-- 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | Data Scientist (ML | DL | NLP | RAG | LLMs | GenAI) | MLOPS & LLMOPS | Cloud Computing (AWS, GCP)
+- 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | Data Scientist (ML | DL | NLP | RAG | LLM's | GenAI) | MLOPS & LLMOPS | Cloud Computing (AWS, GCP).
 
-- 🧐 Interested in `LLMs, GenAI, MLOPS, & LLMOPS`, Cloud Computing, Proficient in Data Science focusing on challenging business problems.
+- 🧐 Interested in `GenAI, MLOPS, & LLMOPS`, Cloud Computing, Proficient in Data Science focusing on challenging business problems.
 
 - 🌱 I’m currently learning **RAG, LLM's & GenAI**
 
@@ -20,7 +21,7 @@
 - Core/In-depth/Practical Knowledge in:
 
 1) Data Manipulation with Pandas, Numpy, Matplotlib, Seaborn etc.
-2) Feature Selection, Feature Engineering, and Data pre-processing, with Sklearn's Pipelines and Algorithms.
+2) Feature Selection, Feature Engineering, Data pre-processing, with Sklearn's Pipelines and Algorithms.
 3) In-depth knowledge of Supervised and Unsupervised in Machine Learning, and Deep Learning Models.
 4) Keras
 5) Tensorflow 
@@ -31,7 +32,7 @@
 10) Mlflow
 11) Dockers
 12) Kubernetes
-13) Mysql, MongoDB, and SQLite
+13) Mysql, MongoDB, and Sqlite
 14) Flask, and FASTAPI
 
 <br>
@@ -182,5 +183,4 @@
 -----
 Credits: [M-Hamza380](https://github.com/M-Hamza380)
 
-Last Edited on: 07/15/2024
-
+Last Edited on: 04/04/2023
