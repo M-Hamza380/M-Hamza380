@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Muhammad Hamza Anjum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs,%20GenAI);Cloud+Computing;AIOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;%20Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs,%20GenAI);Cloud+Computing%20(AWS, %20GCP);%20MLOPS, %20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=M-Hamza380&icon=10&color=0)](https://visitcount.itsvg.in)
