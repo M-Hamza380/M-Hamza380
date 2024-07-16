@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi , I'm Muhammad Hamza Anjum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML+Engineer;%20Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs,%20GenAI);%20Cloud+Computing%20(AWS,%20GCP);%20MLOPS,%20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML/GenAI+Engineer;%20Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs,%20GenAI);%20Cloud+Computing%20(AWS,%20GCP);%20MLOPS,%20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hamza380&label=Profile%20views&color=0e75b6&style=flat" alt="m-hamza380" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hamza380&label=Profile%20views&color=0e75b6&style=flat" alt="m-hamza380"/></p>
 
 # 💫 About Me:
 
@@ -44,8 +44,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="mailto:hamza.anjum380@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/M-Hamza380"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/m-hamza380/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/M-Hamza380"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=#181717" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/m-hamza380/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=#0A66C2" alt="LinkedIn"/></a>
 </p>
 
 ## 🛠️ My Skills
@@ -63,11 +63,11 @@
   </a> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=white">
    </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-0277BD?style=plastic&logo=python&logoColor=white">
   </a>
 </p>
 
@@ -101,21 +101,23 @@
   &emsp;
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%2343B02A.svg?style=plastic&logo=Seaborn&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Sklearn" src="https://img.shields.io/badge/Sklearn%20-%23000000.svg?style=plastic&logo=Sklearn&logoColor=white"></a>
+    <a href="#"><img alt="Sklearn" src="https://img.shields.io/badge/Sklearn%20-F7931E?style=plastic&logo=Sklearn&logoColor=#F7931E"></a>
   &emsp;
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23F05033.svg?style=plastic&logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-D00000?style=plastic&logo=Keras&logoColor=#D00000"></a>
   &emsp;
-    <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow%20-%23F05033.svg?style=plastic&logo=Tensorflow&logoColor=white"></a>
+    <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow%20-FF6F00?style=plastic&logo=Tensorflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%FE7A16.svg?style=plastic&logo=PyTorch&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-%2334A853.svg?style=plastic&logo=Docker&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-2496ED?style=plastic&logo=Docker&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="MLflow" src="https://img.shields.io/badge/MLflow%20-%23d9ead3.svg?style=plastic&logo=mlflow&logoColor=blue"></a>
+    <a href="#"><img alt="DVC" src="https://img.shields.io/badge/DVC%20-13ADC7?style=plastic&logo=DVC&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="MLflow" src="https://img.shields.io/badge/MLflow%20-0194E2?style=plastic&logo=mlflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
@@ -160,10 +162,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-hamza380&show_icons=true&locale=en&layout=compact" alt="m-hamza380" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-hamza380&show_icons=true&locale=en&layout=compact" alt="m-hamza380" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-hamza380&show_icons=true&locale=en" alt="m-hamza380" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-hamza380&show_icons=true&locale=en" alt="m-hamza380" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-hamza380&" alt="m-hamza380" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-hamza380&" alt="m-hamza380" /></p>
 
 ----
