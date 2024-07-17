@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi , I'm Muhammad Hamza Anjum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML/GenAI+Engineer;%20Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs,%20GenAI);%20Cloud+Computing%20(AWS,%20GCP);%20MLOPS,%20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML/GenAI+Engineer;%20%20Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs,%20GenAI);%20Cloud+Computing%20(AWS,%20GCP);%20MLOPS,%20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hamza380&label=Profile%20views&color=0e75b6&style=flat" alt="m-hamza380"/></p>
 
 # 💫 About Me:
 
-- 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | Data Scientist (ML | DL | NLP | RAG | LLM's | GenAI) | Cloud Computing (AWS, GCP) | MLOPS & LLMOPS.
+- 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | AI/ML/GenAI Engineer | Data Scientist (ML | DL | NLP | RAG | LLM's | GenAI) | Cloud Computing (AWS, GCP) | MLOPS & LLMOPS.
 
 - 🧐 Interested in `LLMs, GenAI, MLOPS, & LLMOPS`, Cloud Computing, Proficient in Data Science focusing on challenging business problems.
 
@@ -25,14 +25,14 @@
 
 1) Data Manipulation, and EDA with Pandas, Numpy, Matplotlib, Seaborn, etc.
 2) Feature Selection, Feature Engineering, and Data pre-processing, with Sklearn's Pipelines and Algorithms.
-3) In-depth knowledge of Supervised and Unsupervised in Machine Learning, and Deep Learning Models.
+3) I thoroughly understand supervised and unsupervised machine learning, deep learning, and natural language processing (NLP) models.
 4) Keras
 5) Tensorflow 
 6) Pytorch
 7) Cloud Knowledge in AWS, and GCP
-8) Github 
+8) Git, GitHub, and GitHub Actions 
 9) Data Version Control (DVC)
-10) Mlflow, DVC, and DagsHub
+10) Mlflow, Kubeflow, and DagsHub
 11) Dockers
 12) Kubernetes
 13) Streamlit, and Gradio
