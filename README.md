@@ -26,18 +26,15 @@
 1) Data Manipulation, and EDA with Pandas, Numpy, Matplotlib, Seaborn, etc.
 2) Feature Selection, Feature Engineering, and Data pre-processing, with Sklearn's Pipelines and Algorithms.
 3) I thoroughly understand supervised and unsupervised machine learning, deep learning, and natural language processing (NLP) models.
-4) Keras
-5) Tensorflow 
-6) Pytorch
-7) Cloud Knowledge in AWS, and GCP
-8) Git, GitHub, and GitHub Actions 
-9) Data Version Control (DVC)
-10) Mlflow, Kubeflow, and DagsHub
-11) Dockers
-12) Kubernetes
-13) Streamlit, and Gradio
-14) Mysql, MongoDB, and SQLite
-15) Flask, and FASTAPI
+4) Keras, Tensorflow, and Pytorch
+5) Cloud Knowledge in AWS, and GCP
+6) Git, GitHub, and GitHub Actions 
+7) Data Version Control (DVC)
+8) Mlflow, Kubeflow, and DagsHub
+9) Dockers and Kubernetes
+10) Streamlit, and Gradio
+11) Mysql, MongoDB, and SQLite
+12) Flask, and FASTAPI
 
 </br>
 
