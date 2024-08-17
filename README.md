@@ -40,9 +40,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-	<a href="mailto:hamza.anjum380@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/M-Hamza380"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=#181717" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/m-hamza380/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=#0A66C2" alt="LinkedIn"/></a>
+	<a href="mailto:hamza.anjum380@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/M-Hamza380"><img src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=#181717" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/m-hamza380/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=#0A66C2" alt="LinkedIn"/></a>
 </p>
 
 ## 🛠️ My Skills
@@ -108,7 +108,7 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker%20-2496ED?style=plastic&logo=Docker&logoColor=white"></a>
   &emsp;
@@ -118,11 +118,11 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="DEV Community" src="https://img.shields.io/badge/dev.to%20-0A0A0A?style=plastic&logo=devdotto&logoColor=white"></a>
+    <a href="#"><img alt="DEV Community" src="https://img.shields.io/badge/Dev.to%20-0A0A0A?style=plastic&logo=devdotto&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Dialogflow" src="https://img.shields.io/badge/dialogflow%20-FF9800?style=plastic&logo=dialogflow&logoColor=white"></a>
+    <a href="#"><img alt="Dialogflow" src="https://img.shields.io/badge/Dialogflow%20-FF9800?style=plastic&logo=dialogflow&logoColor=white"></a>
 </p>
 
  ### 👉 IDEs
