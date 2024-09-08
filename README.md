@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi , I'm Muhammad Hamza Anjum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML/GenAI+Engineer;%20%20Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs,%20GenAI);%20Cloud+Computing%20(AWS,%20GCP);%20MLOPS,%20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML/GenAI+Engineer;%20%20Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs,%20GenAI);%20Cloud+Computing%20(AWS,%20GCP);%20AI/MLOPS,%20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hamza380&label=Profile%20views&color=0e75b6&style=flat" alt="m-hamza380"/></p>
 
 # 💫 About Me:
 
-- 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | AI/ML/GenAI Engineer | Data Scientist (ML | DL | NLP | RAG | LLM's | GenAI) | Cloud Computing (AWS, GCP) | MLOPS & LLMOPS.
+- 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | AI/ML/GenAI Engineer | Data Scientist (ML | DL | NLP | RAG | LLM's | GenAI) | Cloud Computing (AWS, GCP) | AI/MLOPS & LLMOPS.
 
-- 🧐 Interested in `LLMs, GenAI, MLOPS, & LLMOPS`, Cloud Computing, Proficient in Data Science focusing on challenging business problems.
+- 🧐 Interested in `LLMs, GenAI, AI/MLOPS, & LLMOPS`, Cloud Computing, Proficient in Data Science focusing on challenging business problems.
 
 - 🌱 I’m currently learning **RAG, LLM's & GenAI**
 
@@ -27,14 +27,16 @@
 2) Feature Selection, Feature Engineering, and Data pre-processing, with Sklearn's Pipelines and Algorithms.
 3) I thoroughly understand supervised and unsupervised machine learning, deep learning, and natural language processing (NLP) models.
 4) Keras, Tensorflow, and Pytorch
-5) Cloud Knowledge in AWS, and GCP
+5) Cloud Knowledge in AWS (ECR, EC2, S3 bucket, SageMaker, ....), and GCP (BigQueryML, Looker, Vertex AI, Cloud Storage, ....)
 6) Git, GitHub, and GitHub Actions 
 7) Data Version Control (DVC)
-8) Mlflow, Kubeflow, and DagsHub
-9) Dockers and Kubernetes
-10) Streamlit, and Gradio
-11) Mysql, MongoDB, and SQLite
-12) Flask, and FASTAPI
+8) Mlflow, Kubeflow, ZenML, and DagsHub
+9) BentoML, Weights & Biases, and Evidently
+10) Dockers and Kubernetes
+11) Grafana and Prometheus
+12) Streamlit, and Gradio
+13) Mysql, MongoDB, and SQLite
+14) Flask, and FASTAPI
 
 </br>
 
