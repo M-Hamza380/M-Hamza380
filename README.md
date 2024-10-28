@@ -23,20 +23,21 @@
 
 - Core/In-depth/Practical Knowledge in:
 
-1) Data Manipulation, and EDA with Pandas, Numpy, Matplotlib, Seaborn, etc.
-2) Feature Selection, Feature Engineering, and Data pre-processing, with Sklearn's Pipelines and Algorithms.
-3) I thoroughly understand supervised and unsupervised machine learning, deep learning, and natural language processing (NLP) models.
-4) Keras, Tensorflow, and Pytorch
-5) Cloud Knowledge in AWS (ECR, EC2, S3 bucket, SageMaker, ....), and GCP (BigQueryML, Looker, Vertex AI, Cloud Storage, ....)
-6) Git, GitHub, and GitHub Actions 
-7) Data Version Control (DVC)
-8) Mlflow, Kubeflow, ZenML, and DagsHub
-9) BentoML, Weights & Biases, and Evidently
-10) Dockers and Kubernetes
-11) Grafana and Prometheus
-12) Streamlit, and Gradio
-13) Mysql, MongoDB, and SQLite
-14) Flask, and FASTAPI
+1) I have extensive experience in Data Manipulation and Exploratory Data Analysis (EDA) using tools such as Pandas, NumPy, Matplotlib, Seaborn, etc.
+2) I am skilled in Feature Selection, Feature Engineering, and Data Preprocessing, utilizing Scikit-learn's pipelines and algorithms.
+3) I possess a solid understanding of both Supervised and Unsupervised Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) models.
+4) Additionally, I have a strong grasp of Generative AI (Gen AI), Large Language Models (LLMs), Eetrieval-Augmented Generation (RAG), and AI agents.
+5) Keras, Tensorflow, TFX and Pytorch
+6) Cloud Knowledge in AWS (ECR, EC2, S3 bucket, SageMaker, ....), and GCP (BigQueryML, Looker, Vertex AI, AutoML, Cloud Storage, ....)
+7) Git, GitHub, and GitHub Actions 
+8) Data Version Control (DVC)
+9) Mlflow, Kubeflow, ZenML, and DagsHub
+10) BentoML, Weights & Biases, and Evidently
+11) Dockers and Kubernetes
+12) Grafana and Prometheus
+13) Streamlit, and Gradio
+14) Mysql, MongoDB, and SQLite
+15) Flask, and FASTAPI
 
 </br>
 
