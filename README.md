@@ -24,9 +24,9 @@
 - Core/In-depth/Practical Knowledge in:
 
 1) I have extensive experience in Data Manipulation and Exploratory Data Analysis (EDA) using tools such as Pandas, NumPy, Matplotlib, Seaborn, etc.
-2) I am skilled in Feature Selection, Feature Engineering, and Data Preprocessing, utilizing Scikit-learn's pipelines and algorithms.
+2) I am skilled in Feature Selection, Feature Engineering, and Data Preprocessing, Data Validation, utilizing Scikit-learn's pipelines and algorithms.
 3) I possess a solid understanding of both Supervised and Unsupervised Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) models.
-4) Additionally, I have a strong grasp of Generative AI (Gen AI), Large Language Models (LLMs), Eetrieval-Augmented Generation (RAG), and AI agents.
+4) Additionally, I have a strong grasp of Generative AI (Gen AI), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents.
 5) Keras, Tensorflow, TFX and Pytorch
 6) Cloud Knowledge in AWS (ECR, EC2, S3 bucket, SageMaker, ....), and GCP (BigQueryML, Looker, Vertex AI, AutoML, Cloud Storage, ....)
 7) Git, GitHub, and GitHub Actions 
