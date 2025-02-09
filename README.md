@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi , I'm Muhammad Hamza Anjum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML/GenAI+Engineer;%20%20Data%20Scientist%20(ML,%20DL,%20NLP,%20RAG,%20LLMs,%20GenAI);%20Cloud+Computing%20(AWS,%20GCP);%20AI/MLOPS,%20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML/GenAI+Engineer;%20%20Data%20Scientist;%20Expert(ML,%20DL,%20NLP,%20LLMs,%20RAG,%20Agents,%20GenAI);%20Cloud+Computing%20(AWS,%20GCP);%20AI/MLOPS,%20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hamza380&label=Profile%20views&color=0e75b6&style=flat" alt="m-hamza380"/></p>
 
 # 💫 About Me:
 
-- 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | AI/ML/GenAI Engineer | Data Scientist (ML | DL | NLP | RAG | LLM's | GenAI) | Cloud Computing (AWS, GCP) | AI/MLOPS & LLMOPS.
+- 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | AI/ML/GenAI Engineer | Data Scientist (ML | DL | NLP | LLM's | RAG | Agents | GenAI) | Cloud Computing (AWS, GCP) | AI/MLOPS & LLMOPS.
 
 - 🧐 Interested in `LLMs, GenAI, AI/MLOPS, & LLMOPS`, Cloud Computing, Proficient in Data Science focusing on challenging business problems.
 
 - 🌱 I’m currently learning **RAG, LLM's & GenAI**
 
-- 💬 Ask me about **Python | AI | ML | DL | NLP | RAG | LLMs | GenAI**
+- 💬 Ask me about **Python | AI | ML | DL | NLP | LLMs | RAG | Agents | GenAI**
 
 - ⚡ Fun fact **I'm active learner😁😎**
 
@@ -37,7 +37,7 @@
 12) Grafana and Prometheus
 13) Streamlit, and Gradio
 14) Mysql, MongoDB, and SQLite
-15) Flask, and FASTAPI
+15) Flask, and FastAPI
 
 </br>
 
