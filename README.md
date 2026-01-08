@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi , I'm Muhammad Hamza Anjum <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML/GenAI+Engineer;%20%20Data%20Scientist;%20Expert(ML,%20DL,%20NLP,%20LLMs,%20RAG,%20Agents,%20GenAI);%20Cloud+Computing%20(AWS,%20GCP);%20AI/MLOPS,%20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/M-Hamza380"><img src="https://readme-typing-svg.herokuapp.com?lines=AI/ML/GenAI+Engineer;%20%20Data%20Scientist;%20Expert(ML,%20DL,%20NLP,%20CV);%20Expert(GenAI,%20LLMs,%20VLMs,%20RAGs,%20Agents);%20Cloud+Computing%20(AWS,%20GCP);%20AI/MLOPS,%20LLMOPS;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hamza380&label=Profile%20views&color=0e75b6&style=flat" alt="m-hamza380"/></p>
 
 # 💫 About Me:
 
-- 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | AI/ML/GenAI Engineer | Data Scientist (ML | DL | NLP | LLM's | RAG | Agents | GenAI) | Cloud Computing (AWS, GCP) | AI/MLOPS & LLMOPS.
+- 👨🏻‍🎓 Bachlor's in Computer Science from `COMSATS University` | AI/ML/GenAI Engineer | Data Scientist (ML | DL | NLP | CV | GenAI | LLMs | VLMs | RAGs | Agents) | Cloud Computing (AWS, GCP) | AI/MLOPS & LLMOPS.
 
-- 🧐 Interested in `LLMs, GenAI, AI/MLOPS, & LLMOPS`, Cloud Computing, Proficient in Data Science focusing on challenging business problems.
+- 🧐 Interested in `LLMs, GenAI, AI/MLOPS, & LLMOPS`, Cloud Computing, Proficient in Data Science, focusing on challenging business problems.
 
-- 🌱 I’m currently learning **RAG, LLM's & GenAI**
+- 🌱 I’m currently learning **LLMs, VLMs, RAGs, & Agents**
 
-- 💬 Ask me about **Python | AI | ML | DL | NLP | LLMs | RAG | Agents | GenAI**
+- 💬 Ask me about **Python | AI | ML | DL | NLP | CV | GenAI | LLMs | VLMs | RAGs | Agents**
 
 - ⚡ Fun fact **I'm active learner😁😎**
 
@@ -27,17 +27,17 @@
 2) I am skilled in Feature Selection, Feature Engineering, and Data Preprocessing, Data Validation, utilizing Scikit-learn's pipelines and algorithms.
 3) I possess a solid understanding of both Supervised and Unsupervised Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP) models.
 4) Additionally, I have a strong grasp of Generative AI (Gen AI), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents.
-5) Keras, Tensorflow, TFX and Pytorch
-6) Cloud Knowledge in AWS (ECR, EC2, S3 bucket, SageMaker, ....), and GCP (BigQueryML, Looker, Vertex AI, AutoML, Cloud Storage, ....)
+5) Keras, Tensorflow, TFX, and Pytorch
+6) Cloud Knowledge in AWS (ECR, EC2, S3 bucket, SageMaker,...), and GCP (BigQueryML, Looker, Vertex AI, AutoML, Cloud Storage,...)
 7) Git, GitHub, and GitHub Actions 
 8) Data Version Control (DVC)
 9) Mlflow, Kubeflow, ZenML, and DagsHub
 10) BentoML, Weights & Biases, and Evidently
-11) Dockers and Kubernetes
+11) Docker and Kubernetes
 12) Grafana and Prometheus
-13) Streamlit, and Gradio
-14) Mysql, MongoDB, and SQLite
-15) Flask, and FastAPI
+13) Streamlit and Gradio
+14) MySQL, MongoDB, and SQLite
+15) Flask and FastAPI
 
 </br>
 
@@ -162,10 +162,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-hamza380&show_icons=true&locale=en&layout=compact" alt="m-hamza380" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-hamza380&show_icons=true&locale=en&layout=compact" alt="m-hamza380"/></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-hamza380&show_icons=true&locale=en" alt="m-hamza380" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-hamza380&show_icons=true&locale=en" alt="m-hamza380"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-hamza380&" alt="m-hamza380" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-hamza380&" alt="m-hamza380"/></p>
 
 ----
